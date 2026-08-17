@@ -24,7 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <h1>3. Deploying the project in ec2 and with cicd jenkins</h1>
-          <h1>4. cicd implememnting in ec2</h1>
+          <h1>4. cicd implememnting in ec2 .....</h1>
 
         </ol>
 
