@@ -23,6 +23,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
+          <h1>3. Deploying the project in ec2 and with cicd jenkins</h1>
 
         </ol>
 
