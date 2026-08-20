@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            Save and see your changes instantly......
           </li>
           <h1>3. Deploying the project in ec2 and with cicd jenkins</h1>
           <h1>4. cicd implememnting in ec2 and with jenkins .....</h1>
